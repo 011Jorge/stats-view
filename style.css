@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: hsl(235, 41%, 5%);
+}
+
+main {
+    color: #fff;
+    display: flex;
+    margin-top: 15vh;
+    margin-left: auto;
+    margin-right: auto;
+    width: max-content;
+    height: max-content;
+    border-radius: 10px;
+    background-color: hsl(244, 38%, 16%);
+}
+
+h1 {
+    padding-top: 50px;
+    padding-bottom: 30px;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
+p {
+    padding-left: 70px;
+}
+
+.div-statistics {
+    display: flex;
+    padding-top: 50px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+.states {
+    padding: 20px;
+}
+
+h3 {
+    font-family: 'STIX Two Math', serif;
+    text-decoration: none;
+}
+
+img {
+    font-family: 'Lexend Deca', sans-serif; 
+    border-radius:  0 10px 10px 0;
+}
